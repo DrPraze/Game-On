@@ -1,0 +1,20 @@
+{
+  "name": "Game On",
+  "version": "1.0.0",
+  "description": "Official website for #gameoncon2023",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Gaming",
+    "Nigeria"
+  ],
+  "author": "Game On",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
